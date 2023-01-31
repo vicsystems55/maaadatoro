@@ -17,7 +17,7 @@
             </a>
             <!-- For Site Title -->
             <!-- <span class="site-title">
-              <a href="index.html">biboo</a>
+              <a href="index.html">MA ADETORO AND COMPANY</a>
             </span> -->
           </div>
           <nav class="primary-nav">
@@ -51,7 +51,7 @@
       <div class="container">
         <div class="hero-text">
           <h1>We Build Your Dream</h1>
-          <h4>Over twenty years biboo lead the construction business<br>We know how to build a perfect dream project.</h4>
+          <h4>Over twenty years MA ADETORO AND COMPANY lead the construction business<br>We know how to build a perfect dream project.</h4>
           <a href="https://www.youtube.com/embed/C0Wz_y-CCPs?autoplay=1" class="t-btn hero-btn video-open"><i class="fa fa-play-circle"></i>Watch Video</a>
         </div>
         <div class="height75"></div>
@@ -467,7 +467,7 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="testimonial">
-              <div class="testimonial-text">"biboo is one of the very best I have had the pleasure to work with in my 27 years of design and construction project management here at Dover Air Force Base and I look forward to working with Bancroft again on future construction."</div>
+              <div class="testimonial-text">"MA ADETORO AND COMPANY is one of the very best I have had the pleasure to work with in my 27 years of design and construction project management here at Dover Air Force Base and I look forward to working with Bancroft again on future construction."</div>
               <div class="testimonial-meta">
                 <div class="avator"><img src="img/comment-01.jpg" alt="Image"></div>
                 <div class="testimonial-meta-text">
@@ -479,7 +479,7 @@
           </div><!-- .col -->
           <div class="col-lg-4">
             <div class="testimonial">
-              <div class="testimonial-text">"I would like to extend my personal gratitude and congratulations to you and the entire biboo Construction project team for their dedication and professional approach and hard work in the completion of my Largest project."</div>
+              <div class="testimonial-text">"I would like to extend my personal gratitude and congratulations to you and the entire MA ADETORO AND COMPANY Construction project team for their dedication and professional approach and hard work in the completion of my Largest project."</div>
               <div class="testimonial-meta">
                 <div class="avator"><img src="img/testimonial2.jpg" alt="Image"></div>
                 <div class="testimonial-meta-text">
@@ -491,7 +491,7 @@
           </div><!-- .col -->
           <div class="col-lg-4">
             <div class="testimonial">
-              <div class="testimonial-text">"This state of the art facility will provide our dedicated staff and volunteers with the ability to better serve thousands of homeless cats and dogs for years to come. All of us at DHA appreciate the outstanding service of biboo."</div>
+              <div class="testimonial-text">"This state of the art facility will provide our dedicated staff and volunteers with the ability to better serve thousands of homeless cats and dogs for years to come. All of us at DHA appreciate the outstanding service of MA ADETORO AND COMPANY."</div>
               <div class="testimonial-meta">
                 <div class="avator"><img src="img/testimonial3.jpg" alt="Image"></div>
                 <div class="testimonial-meta-text">
@@ -561,7 +561,7 @@
             </div><!-- .contact-info-wrap -->
           </div><!-- .col -->
           <div class="col-xl-6">
-            <form  action="https://biboo-html.netlify.app/php/mail.php" method="post"  id="cf" class="contact-form">
+            <form  action="https://MA ADETORO AND COMPANY-html.netlify.app/php/mail.php" method="post"  id="cf" class="contact-form">
               <div class="cf-msg"></div>
               <div class="row">
                 <div class="col-sm-6">
@@ -637,7 +637,7 @@
         <div class="col-lg-3 col-md-6">
           <div class="footer-widget">
             <h2 class="footer-widget-title">About</h2>
-            <div class="short-description">biboo is a very experienced construction company that give a great service of any kinks of construction project</div>
+            <div class="short-description">MA ADETORO AND COMPANY is a very experienced construction company that give a great service of any kinks of construction project</div>
             <div class="social-btn">
               <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
               <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
