@@ -47,7 +47,7 @@
 
   <div class="main-content">
     <!-- Start Hero Section -->
-    <section class="hero parallax bg-img lazy" data-src="img/slider/11.jpg" id="home">
+    <section class="hero parallax bg-img lazy" style="background-image: url('img/slider/11.jpg')" id="home">
       <div class="container">
         <div class="hero-text">
           <h1>We Build Your Dream</h1>
