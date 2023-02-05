@@ -343,7 +343,7 @@
     <!-- End Project Section -->
     
     <!-- Start fun-factor -->
-    <section class="fun-factor section bg-img lazy" data-src="img/fun-fact-bg.jpg">
+    <section class="fun-factor section bg-img lazy" style="background-image: url('img/fun-fact-bg.jpg')">
       <div class="container">
         <div class="row flex">
           <div class="col-md-4">
@@ -540,7 +540,7 @@
   	<div class="site-footer-in">
      <div class="container">
       <div class="row">
-        <div class="col-lg-3 col-md-6">
+        <div class="col-lg-6 col-md-6">
           <div class="footer-widget">
             <h2 class="footer-widget-title">About</h2>
             <div class="short-description">MA ADETORO AND COMPANY is a very experienced construction company that give a great service of any kinks of construction project</div>
@@ -553,12 +553,14 @@
           </div>
         </div><!-- .col -->
        
-        <div class="col-lg-3 col-md-6">
+        <div class="col-lg-6 col-md-6">
           <div class="footer-widget">
             <h2 class="footer-widget-title">Contact Info</h2>
             <div class="contact-info">
-              <span><i class="icon-basic_geolocalize-01"></i>300 Pennsylvania Aveare NW, Washington, DC 20006, USA</span>
-              <span><i class="icon-device_iphone"></i>+123 5265 253 785 <br>+986 1526 695 265</span>
+              <span><i class="icon-basic_geolocalize-01"></i>Office address 81 Bale Street Orile iganmu Lagos</span>
+              <span><i class="icon-device_iphone"></i>  <span> 08084999031</span>
+                      <span>09052213929</span>
+                      <span>08059381066</span></span>
               <span><i class="icon-mail_envelope"></i><a href="#">example@gmail.com</a></span>
             </div>
           </div>
@@ -568,7 +570,7 @@
     </div> 
     </div>
     <div class="container">
-      <div class="copy-right-sectin">@ 2019 Laralink - All Right Reserved</div>
+      <div class="copy-right-sectin">@ 2023 VICSYSTEMS TECHNOLOGIES LTD. - All Right Reserved</div>
     </div>
   </footer>
   <!-- End Footer Scetion -->
