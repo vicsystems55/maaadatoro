@@ -13,7 +13,7 @@
           <div class="site-branding">
             <!-- For Image Logo -->
             <a href="index.html" class="custom-logo-link">
-              <img src="img/logo.png" alt="Image" class="custom-logo">
+              <img src="img/logo.png"  alt="Image" class="custom-logo">
             </a>
             <!-- For Site Title -->
             <!-- <span class="site-title">
@@ -34,9 +34,9 @@
               <li class="menu-item"><a href="#contact">Contact</a></li>
             </ul>
             <div class="sp-phone">
-              <img src="img/phone-icon.png" alt="Image">
-              <span>It's toll free</span>
-              <div class="sp-phone-no">+88 154 54 125</div>
+              <img src="img/phone-icon.png"  alt="Image">
+         
+              <div class="sp-phone-no">+234 808 499 9031</div>
             </div>
           </nav>
         </div>
@@ -45,14 +45,15 @@
   </header>
   <!-- End Site Header -->
 
+
   <div class="main-content">
     <!-- Start Hero Section -->
     <section class="hero parallax bg-img lazy" style="background-image: url('img/slider/11.jpg')" id="home">
       <div class="container">
         <div class="hero-text">
           <h1>We Build Your Dream</h1>
-          <h4>Over twenty years MA ADETORO AND COMPANY lead the construction business<br>We know how to build a perfect dream project.</h4>
-          <a href="https://www.youtube.com/embed/C0Wz_y-CCPs?autoplay=1" class="t-btn hero-btn video-open"><i class="fa fa-play-circle"></i>Watch Video</a>
+          <h4>Over twenty years MA ADETORO lead the construction business<br>We know how to build a perfect dream project.</h4>
+        
         </div>
         <div class="height75"></div>
       </div>
@@ -97,15 +98,9 @@
             <div class="about-company">
               <h3 class="about-company-title">People's place of faith.</h3>
               <div class="about-company-text">
-                <p>Marianne or husbands if at stronger ye. Considered is as middletons uncommonly. Promotion perfectly ye consisted so. His chatty dining for effect ladies active. Equally journey wishing not several behaved chapter she two sir. Deficient procuring favourite extensive you two. Yet diminution she impossible understood age.</p>
+                <p>But Finish Point is not your typical contract company. CEO sets their goals for something much higher. The way he leads his company is an inspiration, and he is breaking the mold of expectation for the average tradesman and changing the way people see construction</p>
               </div>
-              <div class="about-company-man">
-                <img src="img/chairman.jpg" alt="Chairman" class="about-company-img">
-                <div class="about-company-meta">
-                  <img src="img/chairman-png.png" alt="Signature" class="about-company-signature">
-                  <h3>Jhon Danish</h3>
-                </div>
-              </div>
+              
             </div>
           </div><!-- .col -->
           <div class="col-lg-6">
@@ -115,13 +110,13 @@
                   <i class="fa fa-user-circle"></i>
                   Why People Chose Us
                 </h3>
-                <div class="accordian-body">Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried.
+                <div class="accordian-body"> quality, service, relationships, safety, satisfaction, integrity, commitment, excellence, performance, and innovation.
                 </div>
               </div><!-- .single-accordian -->
               <div class="single-accordian">
                 <h3 class="accordian-head">
                  <i class="fa fa-bar-chart"></i>
-                 Company Groth
+                 Company Growth
                 </h3>
                <div class="accordian-body">
                   Is education residence conveying so so. Suppose shyness say ten behaved morning had. Any unsatiable assistance compliment occasional too reasonably advantages. Unpleasing has ask acceptance.
@@ -130,10 +125,10 @@
               <div class="single-accordian">
                 <h3 class="accordian-head">
                  <i class="fa fa-cog"></i>
-                 Our Vison and Mison
+                 Our Vision and Mission
                 </h3>
                  <div class="accordian-body">
-                   Married he hearing am it totally removal. Remove but suffer wanted his lively length. Moonlight two applauded conveying end direction old principle but. Are expenses distance weddings perceive strongly who age domestic. 
+                  “Build on a tradition of trust through dedication, collaboration, customer satisfaction, and value creation.” 
                  </div>
               </div><!-- .single-accordian -->
             </div>
@@ -269,28 +264,73 @@
           Every project that we build very carefully and love.</div>
         </div>
         <div class="row flex">
-          <div class="col-lg-4">
+          <div class="col-lg-3">
             <a href="project-details-1.html" class="singel-project">
-              <img src="img/nw-project/01.jpg" alt="Image">
+              <img src="img/nw-project/10.jpg" style="object-fit: cover;"  alt="Image">
               <div class="project-meta">
                 <h3 class="project-title">Colorful House</h3>
                 <span class="project-date">26 Jan, 2018</span>
               </div>
             </a>
           </div><!-- .col -->
-          <div class="col-lg-4">
+          <div class="col-lg-3">
             <a href="project-details-1.html" class="singel-project">
-              <img src="img/nw-project/07.jpg" alt="Image">
+              <img src="img/nw-project/13.jpg" style="object-fit: cover;"  alt="Image">
+              <div class="project-meta">
+                <h3 class="project-title">Colorful House</h3>
+                <span class="project-date">26 Jan, 2018</span>
+              </div>
+            </a>
+          </div><!-- .col -->
+          <div class="col-lg-3">
+            <a href="project-details-1.html" class="singel-project">
+              <img src="img/nw-project/16.jpg" style="object-fit: cover;" alt="Image">
               <div class="project-meta">
                 <h3 class="project-title">Luxury Resort</h3>
                 <span class="project-date">15 Feb, 2018</span>
               </div>
             </a>
           </div><!-- .col -->
-          <div class="col-lg-4">
+          <div class="col-lg-3">
+            <a href="project-details-1.html" class="singel-project">
+              <img src="img/nw-project/15.jpg" style="object-fit: cover;" alt="Image">
+              <div class="project-meta">
+                <h3 class="project-title">Luxury Resort</h3>
+                <span class="project-date">15 Feb, 2018</span>
+              </div>
+            </a>
+          </div><!-- .col -->
+          <div class="col-lg-3">
+            <a href="project-details-1.html" class="singel-project">
+              <img src="img/nw-project/17.jpg" style="object-fit: cover;" alt="Image">
+              <div class="project-meta">
+                <h3 class="project-title">Luxury Resort</h3>
+                <span class="project-date">15 Feb, 2018</span>
+              </div>
+            </a>
+          </div><!-- .col -->
+          <div class="col-lg-3">
+            <a href="project-details-1.html" class="singel-project">
+              <img src="img/nw-project/14.jpg" style="object-fit: cover;" alt="Image">
+              <div class="project-meta">
+                <h3 class="project-title">Luxury Resort</h3>
+                <span class="project-date">15 Feb, 2018</span>
+              </div>
+            </a>
+          </div><!-- .col -->
+          <div class="col-lg-3">
+            <a href="project-details-1.html" class="singel-project">
+              <img src="img/nw-project/11.jpg" style="object-fit: cover;" alt="Image">
+              <div class="project-meta">
+                <h3 class="project-title">Luxury Resort</h3>
+                <span class="project-date">15 Feb, 2018</span>
+              </div>
+            </a>
+          </div><!-- .col -->
+          <div class="col-lg-3">
             <a href="https://www.youtube.com/embed/-3a5P876CmA?autoplay=1" class="singel-project video-open">
               <span class="project-player"><i class="fa fa-play"></i></span>
-              <img src="img/nw-project/04.jpg" alt="Image">
+              <img src="img/nw-project/12.jpg" style="object-fit: cover;" alt="Image">
               <div class="project-meta">
                 <h3 class="project-title">Personal Home</h3>
                 <span class="project-date">25 Apr, 2018</span>
@@ -320,83 +360,18 @@
               <h3 class="factor-header">Clients Handle</h3>
             </div>
           </div><!-- .col -->
-          <div class="col-md-4">
-            <div class="single-factor">
-              <div class="factor-icon"><i class="icon-trophy"></i></div>
-              <h2 class="factor-number"><span class="counter">90</span>+</h2>
-              <h3 class="factor-header">Award Won</h3>
-            </div>
-          </div><!-- .col -->
+         
         </div>
       </div>
     </section>
     <!-- End fun-factor -->
 
     <!-- Start Team Section -->
-    <section class="team team-v1 section" id="team">
-      <div class="container">
-        <div class="section-header type1">
-          <h2>Creative Team Member</h2>
-          <div class="sub-heading">Here are some projects that we build the last few years you can check<br> 
-          Every project that we build very carefully and love.</div>
-        </div>
-        <div class="row flex">
-          <div class="col-md-4">
-            <div class="team-member">
-              <div class="team-member-img">
-                <img src="img/team/05.jpg" alt="Image">
-              </div>
-              <div class="team-member-text text-center">
-                <h3>Jesmin Jesi</h3>
-                <span>Architect</span>
-                <div class="member-social-btn-v1">
-                  <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                  <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                  <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                  <a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a>
-                </div>
-              </div>
-            </div><!-- .team-member -->
-          </div><!-- .col -->
-          <div class="col-md-4">
-            <div class="team-member">
-              <div class="team-member-img">
-                <img src="img/team/06.jpg" alt="Image">
-              </div>
-              <div class="team-member-text text-center">
-                <h3>Michel Smith</h3>
-                <span>Manager</span>
-                <div class="member-social-btn-v1">
-                  <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                  <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                  <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                  <a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a>
-                </div>
-              </div>
-            </div><!-- .team-member -->
-          </div><!-- .col -->
-          <div class="col-md-4">
-            <div class="team-member">
-              <div class="team-member-img">
-                <img src="img/team/07.jpg" alt="Image">
-              </div>
-              <div class="team-member-text text-center">
-                <h3>Robart Rome</h3>
-                <span>Incharge</span>
-                <div class="member-social-btn-v1">
-                  <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                  <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                  <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                  <a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a>
-                </div>
-              </div>
-            </div><!-- .team-member -->
-          </div><!-- .col -->
-        </div>
-      </div>
-    </section>
-    <!-- End Team Section -->
- 
+  
+    <hr>
+    <!-- Start home-blog -->
+    
+    <!-- End home-blog -->
 
     <!-- Start Testimonial -->
     <section class="testimonial-wrap section gray-bg" id="testimonial">
@@ -409,9 +384,9 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="testimonial">
-              <div class="testimonial-text">"MA ADETORO AND COMPANY is one of the very best I have had the pleasure to work with in my 27 years of design and construction project management here at Dover Air Force Base and I look forward to working with Bancroft again on future construction."</div>
+              <div class="testimonial-text">"MA ADETORO is one of the very best I have had the pleasure to work with in my 27 years of design and construction project management here at Dover Air Force Base and I look forward to working with Bancroft again on future construction."</div>
               <div class="testimonial-meta">
-                <div class="avator"><img src="img/comment-01.jpg" alt="Image"></div>
+                <div class="avator"><img src="img/comment-01.jpg"  alt="Image"></div>
                 <div class="testimonial-meta-text">
                   <h3>Jhon Doe</h3>
                   <span>Manager</span>
@@ -421,9 +396,9 @@
           </div><!-- .col -->
           <div class="col-lg-4">
             <div class="testimonial">
-              <div class="testimonial-text">"I would like to extend my personal gratitude and congratulations to you and the entire MA ADETORO AND COMPANY Construction project team for their dedication and professional approach and hard work in the completion of my Largest project."</div>
+              <div class="testimonial-text">"I would like to extend my personal gratitude and congratulations to you and the entire MA ADETORO Construction project team for their dedication and professional approach and hard work in the completion of my Largest project."</div>
               <div class="testimonial-meta">
-                <div class="avator"><img src="img/testimonial2.jpg" alt="Image"></div>
+                <div class="avator"><img src="img/testimonial2.jpg"  alt="Image"></div>
                 <div class="testimonial-meta-text">
                   <h3>Dana M. Porter</h3>
                   <span>Director</span>
@@ -433,9 +408,9 @@
           </div><!-- .col -->
           <div class="col-lg-4">
             <div class="testimonial">
-              <div class="testimonial-text">"This state of the art facility will provide our dedicated staff and volunteers with the ability to better serve thousands of homeless cats and dogs for years to come. All of us at DHA appreciate the outstanding service of MA ADETORO AND COMPANY."</div>
+              <div class="testimonial-text">"This state of the art facility will provide our dedicated staff and volunteers with the ability to better serve thousands of homeless cats and dogs for years to come. All of us at DHA appreciate the outstanding service of MA ADETORO."</div>
               <div class="testimonial-meta">
-                <div class="avator"><img src="img/testimonial3.jpg" alt="Image"></div>
+                <div class="avator"><img src="img/testimonial3.jpg"  alt="Image"></div>
                 <div class="testimonial-meta-text">
                   <h3>Robert Smith</h3>
                   <span>Executive</span>
@@ -465,7 +440,7 @@
                     <i class="icon-basic_geolocalize-01"></i>
                     <div class="single-info-details">
                       <h3>Our Location</h3>
-                      <span>907 N Randolph street, Denvar, United States</span>
+                      <span>Office address 81 Bale Street Orile iganmu Lagos</span>
                     </div>
                   </div>
                 </div>
@@ -474,8 +449,9 @@
                     <i class="icon-device_iphone"></i>
                     <div class="single-info-details">
                       <h3>Our Phone</h3>
-                      <span>+123 625 254 965</span>
-                      <span>+854 526 481 856</span>
+                      <span> 08084999031</span>
+                      <span>09052213929</span>
+                      <span>08059381066</span>
                     </div>
                   </div>
                 </div>
@@ -484,8 +460,8 @@
                     <i class="icon-mail_envelope"></i>
                     <div class="single-info-details">
                       <h3>Our E-mail</h3>
-                      <span>demo@gmail.com</span>
-                      <span>esample@gmail.com</span>
+                      <span>admin@maadetoro.com</span>
+                      <span>adetoro@gmail.com</span>
                     </div>
                   </div>
                 </div>
@@ -503,7 +479,7 @@
             </div><!-- .contact-info-wrap -->
           </div><!-- .col -->
           <div class="col-xl-6">
-            <form  action="https://MA ADETORO AND COMPANY-html.netlify.app/php/mail.php" method="post"  id="cf" class="contact-form">
+            <form  action="php/mail.php" method="post"  id="cf" class="contact-form">
               <div class="cf-msg"></div>
               <div class="row">
                 <div class="col-sm-6">
@@ -536,38 +512,26 @@
     <section class="partner section">
       <div class="container">
         <div class="section-header type1">
-          <h2>Partner Organization</h2>
+          <h2>Our Clients</h2>
           <div class="sub-heading">We fill proud to introduce our partners, they really help us to go <br>
           forward of our business and we love to add us. </div>
         </div>
         <div class="partner-logo2">
-          <div class="partner-logo-in"><img src="img/clients/01.png" alt="Image"></div>
-          <div class="partner-logo-in"><img src="img/clients/02.png" alt="Image"></div>
-          <div class="partner-logo-in"><img src="img/clients/03.png" alt="Image"></div>
-          <div class="partner-logo-in"><img src="img/clients/04.png" alt="Image"></div>
-          <div class="partner-logo-in"><img src="img/clients/05.png" alt="Image"></div>
-          <div class="partner-logo-in"><img src="img/clients/06.png" alt="Image"></div>
-          <div class="partner-logo-in"><img src="img/clients/07.png" alt="Image"></div>
-          <div class="partner-logo-in"><img src="img/clients/08.png" alt="Image"></div>
-          <div class="partner-logo-in"><img src="img/clients/09.png" alt="Image"></div>
+          <div class="partner-logo-in"><img src="img/clients/01.png"  alt="Image"><p>Purechem <br>Industries</p></div>
+          <div class="partner-logo-in"><img src="img/clients/02.png"  alt="Image"><p> Purechem Manufacturing</p></div>
+          <div class="partner-logo-in"><img src="img/clients/03.png"  alt="Image"><p>Plastimat <br>Manufacturing<br> Company</p></div>
+          <div class="partner-logo-in"><img src="img/clients/04.png"  alt="Image"><p>International <br>Printing Press</p></div>
+          <div class="partner-logo-in"><img src="img/clients/05.png"  alt="Image"><p>Yamako <br>Nigeria ltd</p></div>
+          <div class="partner-logo-in"><img src="img/clients/06.png"  alt="Image"><p> Samstar <br>Construction <br>Company</p></div>
+          <div class="partner-logo-in"><img src="img/clients/07.png"  alt="Image"><p> Christ <br>Apostolic <br>Church</p></div>
+          <div class="partner-logo-in"><img src="img/clients/08.png"  alt="Image"><p> Libratoro <br>Nigeria<br> Ltd</p></div>
+         
         </div><!-- .partner-logo2 -->
       </div>
     </section>
     <!-- End Our Partners -->
     <!-- Start Subscribe Section -->
-    <div class="subscribe-wrap">
-      <div class="container">
-        <h2>Subscribe to Get Our News, Update and Special Offer.</h2>
-        <form class="mailchimp" action="https://storerepublic.us12.list-manage.com/subscribe/post?u=d227d8d335060b093084903d0&amp;id=9ba078ceb0">
-          <input type="email" name="subscribe" id="subscriber-email" placeholder="Enter your Email" class="form-control">
-          <button type="submit" id="subscribe-button" class="t-btn">Subscribe</button>
-          <!-- SUBSCRIPTION SUCCESSFUL OR ERROR MESSAGES -->
-          <h5 class="subscription-success"> . </h5>
-          <h5 class="subscription-error"> . </h5>
-          <label class="subscription-label" for="subscriber-email"></label>
-        </form>
-      </div>
-    </div>
+   
     <!-- End Subscribe Section -->
   </div><!-- .main-content -->
 
@@ -584,23 +548,11 @@
               <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
               <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
               <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-              <a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a>
+        
             </div>
           </div>
         </div><!-- .col -->
-        <div class="col-lg-3 col-md-6">
-          <div class="footer-widget">
-            <h2 class="footer-widget-title">Business Hours</h2>
-            <div class="business-hours">
-              <p>Our support available to help you 24 hours a day, seven days a week.</p>
-              <ul>
-                <li><span class="business-day">Monday-Friday:</span><span class="business-time">10am to 6pm</span></li>
-                <li><span class="business-day">Saturday:</span><span class="business-time">10am to 3pm</span></li>
-                <li><span class="business-day">Sunday:</span><span class="business-time">Closed</span></li>
-              </ul>
-            </div>
-          </div>
-        </div>
+       
         <div class="col-lg-3 col-md-6">
           <div class="footer-widget">
             <h2 class="footer-widget-title">Contact Info</h2>
@@ -611,43 +563,7 @@
             </div>
           </div>
         </div><!-- .col -->
-        <div class="col-lg-3 col-md-6">
-          <div class="footer-widget">
-            <h2 class="footer-widget-title">Recent Project</h2>
-            <div class="recent-project row">
-              <div class="col-4">
-                <a href="#" class="zoom-effect">
-                  <div class="zoom-effect-in"><img src="img/project/01.jpg" alt="Image"></div>
-                </a>
-              </div>
-              <div class="col-4">
-                <a href="#" class="zoom-effect">
-                  <div class="zoom-effect-in"><img src="img/project/02.jpg" alt="Image"></div>
-                </a>
-              </div>
-              <div class="col-4">
-                <a href="#" class="zoom-effect">
-                  <div class="zoom-effect-in"><img src="img/project/03.jpg" alt="Image"></div>
-                </a>
-              </div>
-              <div class="col-4">
-                <a href="#" class="zoom-effect">
-                  <div class="zoom-effect-in"><img src="img/project/04.jpg" alt="Image"></div>
-                </a>
-              </div>
-              <div class="col-4">
-                <a href="#" class="zoom-effect">
-                  <div class="zoom-effect-in"><img src="img/project/05.jpg" alt="Image"></div>
-                </a>
-              </div>
-              <div class="col-4">
-                <a href="#" class="zoom-effect">
-                <div class="zoom-effect-in"><img src="img/project/06.jpg" alt="Image"></div>
-              </a>
-              </div>
-            </div>
-          </div>
-        </div>
+     
       </div><!-- .row -->
     </div> 
     </div>
