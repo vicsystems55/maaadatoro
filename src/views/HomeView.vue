@@ -96,9 +96,9 @@
         <div class="row">
           <div class="col-lg-6">
             <div class="about-company">
-              <h3 class="about-company-title">People's place of faith.</h3>
+              <h3 class="about-company-title">People's faith in us.</h3>
               <div class="about-company-text">
-                <p>We hav</p>
+                <p>You can dream, create, design and build the most wonderful place in the world. But it requires people. At MA ADETORO we have the right personnel equiped with the right skills and experience to make your dream a reality</p>
               </div>
               
             </div>
@@ -110,7 +110,7 @@
                   <i class="fa fa-user-circle"></i>
                   Why People Chose Us
                 </h3>
-                <div class="accordian-body"> quality, service, relationships, safety, satisfaction, integrity, commitment, excellence, performance, and innovation.
+                <div class="accordian-body"> Quality, service, relationships, safety, satisfaction, integrity, commitment, excellence, performance, and innovation.
                 </div>
               </div><!-- .single-accordian -->
               <div class="single-accordian">
@@ -119,7 +119,7 @@
                  Company Growth
                 </h3>
                <div class="accordian-body">
-                  Is education residence conveying so so. Suppose shyness say ten behaved morning had. Any unsatiable assistance compliment occasional too reasonably advantages. Unpleasing has ask acceptance.
+                  We have stunning records of growth over the years, extended partnerships, happy clients home and abroad
                </div>
               </div><!-- .single-accordian -->
               <div class="single-accordian">
@@ -211,8 +211,7 @@
       <div class="container">
         <div class="section-header type1">
           <h2>Working Process</h2>
-          <div class="sub-heading">Lorem ipsum dolor sit amet, consectetuer adipiscing elit ipsum dolor.<br> 
-          Lorem ipsum dolor sit amet, consectetuer ipsum dolor.</div>
+        
         </div>
         <div class="work-process">
           <div class="single-process">
