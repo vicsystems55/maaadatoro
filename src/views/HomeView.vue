@@ -98,7 +98,7 @@
             <div class="about-company">
               <h3 class="about-company-title">People's place of faith.</h3>
               <div class="about-company-text">
-                <p>But Finish Point is not your typical contract company. CEO sets their goals for something much higher. The way he leads his company is an inspiration, and he is breaking the mold of expectation for the average tradesman and changing the way people see construction</p>
+                <p>We hav</p>
               </div>
               
             </div>
