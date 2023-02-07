@@ -52,7 +52,7 @@
       <div class="container">
         <div class="hero-text">
           <h1>We Build Your Dream</h1>
-          <h4>Over twenty years MA ADETORO lead the construction business <br> We know how to build a perfect dream project.</h4>
+          <h4>Over twenty years MA ADETORO lead the construction business. <br> We know how to build a perfect dream project.</h4>
         
         </div>
         <div class="height75"></div>
@@ -217,7 +217,7 @@
           <div class="single-process">
             <div class="single-process-number"><span>01</span></div>
             <div class="single-process-text">
-              <h3>Descussion</h3>
+              <h3>Discussion</h3>
               <p>At first, we discuss your dream project.</p>
             </div>
           </div>
@@ -385,9 +385,9 @@
             <div class="testimonial">
               <div class="testimonial-text">"MA ADETORO is one of the very best I have had the pleasure to work with in my 27 years of design and construction project management here at Dover Air Force Base and I look forward to working with Bancroft again on future construction."</div>
               <div class="testimonial-meta">
-                <div class="avator"><img src="img/comment-01.jpg"  alt="Image"></div>
+                <div class="avator"><img src="img/comment-01.jpg.png"  alt="Image"></div>
                 <div class="testimonial-meta-text">
-                  <h3>Jhon Doe</h3>
+                  <h3>Engr. Emmanuela Agene</h3>
                   <span>Manager</span>
                 </div>
               </div>
@@ -397,9 +397,9 @@
             <div class="testimonial">
               <div class="testimonial-text">"I would like to extend my personal gratitude and congratulations to you and the entire MA ADETORO Construction project team for their dedication and professional approach and hard work in the completion of my Largest project."</div>
               <div class="testimonial-meta">
-                <div class="avator"><img src="img/testimonial2.jpg"  alt="Image"></div>
+                <div class="avator"><img src="img/testimonial2.png"  alt="Image"></div>
                 <div class="testimonial-meta-text">
-                  <h3>Dana M. Porter</h3>
+                  <h3>Mr. Usoro Urie</h3>
                   <span>Director</span>
                 </div>
               </div>
@@ -409,10 +409,10 @@
             <div class="testimonial">
               <div class="testimonial-text">"This state of the art facility will provide our dedicated staff and volunteers with the ability to better serve thousands of homeless cats and dogs for years to come. All of us at DHA appreciate the outstanding service of MA ADETORO."</div>
               <div class="testimonial-meta">
-                <div class="avator"><img src="img/testimonial3.jpg"  alt="Image"></div>
+                <div class="avator"><img src="img/testimonial3.jpg.png"  alt="Image"></div>
                 <div class="testimonial-meta-text">
-                  <h3>Robert Smith</h3>
-                  <span>Executive</span>
+                  <h3>Robert Attah</h3>
+                  <span>Manager</span>
                 </div>
               </div>
             </div>
@@ -542,7 +542,7 @@
         <div class="col-lg-6 col-md-6">
           <div class="footer-widget">
             <h2 class="footer-widget-title">About</h2>
-            <div class="short-description">MA ADETORO AND COMPANY is a very experienced construction company that give a great service of any kinks of construction project</div>
+            <div class="short-description">MA ADETORO AND COMPANY is a very experienced construction company that give a great service in any kinds of construction project</div>
             <div class="social-btn">
               <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
               <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
