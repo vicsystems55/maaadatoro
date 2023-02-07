@@ -464,16 +464,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-6">
-                  <div class="single-contact-info">
-                    <i class="icon-support_tools"></i>
-                    <div class="single-info-details">
-                      <h3>Our Support</h3>
-                      <span>support@gmail.com</span>
-                      <span>example@gmail.com</span>
-                    </div>
-                  </div>
-                </div>
+               
               </div>
             </div><!-- .contact-info-wrap -->
           </div><!-- .col -->
