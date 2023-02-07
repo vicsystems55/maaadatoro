@@ -448,9 +448,9 @@
                     <i class="icon-device_iphone"></i>
                     <div class="single-info-details">
                       <h3>Our Phone</h3>
-                      <span> 08084999031</span>
-                      <span>09052213929</span>
-                      <span>08059381066</span>
+                      <span> 08084999031</span><br>
+                      <span>09052213929</span><br>
+                      <span>08059381066</span><br>
                     </div>
                   </div>
                 </div>
