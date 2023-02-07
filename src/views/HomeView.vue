@@ -430,7 +430,7 @@
         </div>
         <div class="row">
           <div class="col-xl-6">
-            <div class="contact-text">If you have any quires or have any project fill free to contact us<br> 
+            <div class="contact-text">If you have any enquires or have any project fill free to contact us<br> 
               Our support team is available for you 24/7.</div>
             <div class="contact-info-wrap">
               <div class="row">
