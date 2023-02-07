@@ -551,7 +551,7 @@
               <span><i class="icon-device_iphone"></i>  <span> 08084999031</span>
                       <span>09052213929</span>
                       <span>08059381066</span></span>
-              <span><i class="icon-mail_envelope"></i><a href="#">example@gmail.com</a></span>
+              <span><i class="icon-mail_envelope"></i><a href="#">adetoro@gmail.com</a></span>
             </div>
           </div>
         </div><!-- .col -->
