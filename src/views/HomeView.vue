@@ -407,7 +407,7 @@
           </div><!-- .col -->
           <div class="col-lg-4">
             <div class="testimonial">
-              <div class="testimonial-text">"This state of the art facility will provide our dedicated staff and volunteers with the ability to better serve thousands of homeless cats and dogs for years to come. All of us at Samstar construction company appreciate the outstanding service of MA ADETORO."</div>
+              <div class="testimonial-text">"This state of the art facility will provide our dedicated staff and volunteers with the ability to better serve thousands of our members. All of us at Samstar construction company appreciate the outstanding service of MA ADETORO."</div>
               <div class="testimonial-meta">
                 <div class="avator"><img src="img/testimonial3.jpg.png"  alt="Image"></div>
                 <div class="testimonial-meta-text">
