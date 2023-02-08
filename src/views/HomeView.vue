@@ -376,7 +376,7 @@
     <section class="testimonial-wrap section gray-bg" id="testimonial">
       <div class="container">
         <div class="section-header type1">
-          <h2>What Client Say?</h2>
+          <h2>Clients' Review</h2>
           <div class="sub-heading">People love our work and they have always been with us as a family, some of client<br> 
            reviews are given below.</div>
         </div>
