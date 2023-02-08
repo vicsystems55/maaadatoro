@@ -383,7 +383,7 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="testimonial">
-              <div class="testimonial-text">"MA ADETORO is one of the very best I have had the pleasure to work with in my 27 years of design and construction project management here at Dover Air Force Base and I look forward to working with MA ADETORO again on future constructions."</div>
+              <div class="testimonial-text">"MA ADETORO is one of the very best I have had the pleasure to work with in my 27 years of design and construction project management here at Purechem industries and I look forward to working with MA ADETORO again on future constructions."</div>
               <div class="testimonial-meta">
                 <div class="avator"><img src="img/comment-01.jpg.png"  alt="Image"></div>
                 <div class="testimonial-meta-text">
@@ -407,7 +407,7 @@
           </div><!-- .col -->
           <div class="col-lg-4">
             <div class="testimonial">
-              <div class="testimonial-text">"This state of the art facility will provide our dedicated staff and volunteers with the ability to better serve thousands of homeless cats and dogs for years to come. All of us at DHA appreciate the outstanding service of MA ADETORO."</div>
+              <div class="testimonial-text">"This state of the art facility will provide our dedicated staff and volunteers with the ability to better serve thousands of homeless cats and dogs for years to come. All of us at Samstar construction company appreciate the outstanding service of MA ADETORO."</div>
               <div class="testimonial-meta">
                 <div class="avator"><img src="img/testimonial3.jpg.png"  alt="Image"></div>
                 <div class="testimonial-meta-text">
