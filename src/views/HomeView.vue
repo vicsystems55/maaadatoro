@@ -259,7 +259,7 @@
       <div class="container">
         <div class="section-header type1">
           <h2>Featured Projects</h2>
-          <div class="sub-heading">Here are some of our projects over the last few years<br> 
+          <div class="sub-heading">Here are some of our projects over the last few years.<br> 
           Every project built carefully with client satisfaction in mind.</div>
         </div>
         <div class="row flex">
