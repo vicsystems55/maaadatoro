@@ -52,7 +52,7 @@
       <div class="container">
         <div class="hero-text">
           <h1>We Build Your Dream</h1>
-          <h4>Over twenty years MA ADETORO lead the construction business. <br> We know how to build a perfect dream project.</h4>
+          <h4>Over ten years MA ADETORO has led in the construction business. <br> We know how to build a perfect dream project.</h4>
         
         </div>
         <div class="height75"></div>
@@ -143,8 +143,8 @@
       <div class="container">
         <div class="section-header type1">
           <h2>Services We Provide</h2>
-          <div class="sub-heading">Our dedicated team member provided there best services and we have a<br> 
-            very high-quality engineer to taking care of your project</div>
+          <div class="sub-heading">Our dedicated team members provide the best services<br> 
+            with very high-adherence to engineering principles.</div>
         </div>
         <div class="row flex">
           <div class="col-lg-4 text-center">
@@ -162,7 +162,7 @@
                 <i class="icon-basic_settings"></i>
               </div>
               <h3 class="service-header"><a href="service-details-1.html">Renovation</a></h3>
-              <div class="service-details">Renovations can often be subtle, improving on the existing building or house. Or, can be drastic, much like a remodel</div>
+              <div class="service-details">Renovations can often be subtle, improving on the existing building or a house. Or, can be drastic, much like a remodeling</div>
             </div>
           </div><!-- .col -->
           <div class="col-lg-4 text-center">
@@ -225,7 +225,7 @@
             <div class="single-process-number"><span>02</span></div>
             <div class="single-process-text">
               <h3>Planing</h3>
-              <p>After that planer make a great plan for us.</p>
+              <p>After that we make develop a well thought blueprint of operation.</p>
             </div>
           </div>
           <div class="single-process">
@@ -377,8 +377,8 @@
       <div class="container">
         <div class="section-header type1">
           <h2>What Client Say?</h2>
-          <div class="sub-heading">People love our work and they always be with us as a family, some of client<br> 
-           reviews is given below please see and asume our service.</div>
+          <div class="sub-heading">People love our work and they have always been with us as a family, some of client<br> 
+           reviews are given below.</div>
         </div>
         <div class="row">
           <div class="col-lg-4">
@@ -504,7 +504,7 @@
         <div class="section-header type1">
           <h2>Our Clients</h2>
           <div class="sub-heading">We fill proud to introduce our partners, they really help us to go <br>
-          forward of our business and we love to add us. </div>
+          forward with our business. </div>
         </div>
         <div class="partner-logo2">
           <div class="partner-logo-in"><img src="img/clients/01.png"  alt="Image"><p>Purechem <br>Industries</p></div>
