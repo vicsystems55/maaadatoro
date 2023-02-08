@@ -153,7 +153,7 @@
                 <i class="icon-apartment_building"></i>
               </div>
               <h3 class="service-header"><a href="service-details-1.html">Construction</a></h3>
-              <div class="service-details">The Construction Services department is responsible for managing the development and execution of new construction</div>
+              <div class="service-details">The Construction Services department is responsible for managing the development and execution of new constructions</div>
             </div>
           </div><!-- .col -->
           <div class="col-lg-4 text-center">
@@ -162,7 +162,7 @@
                 <i class="icon-basic_settings"></i>
               </div>
               <h3 class="service-header"><a href="service-details-1.html">Renovation</a></h3>
-              <div class="service-details">Renovations can often be subtle, improving on the existing building or a house. Or, can be drastic, much like a remodeling</div>
+              <div class="service-details">Renovations can often be subtle, improving on the existing building or, can be drastic, much like a remodeling</div>
             </div>
           </div><!-- .col -->
           <div class="col-lg-4 text-center">
@@ -189,7 +189,7 @@
                 <i class="icon-paint_brush_wall_roller"></i>
               </div>
               <h3 class="service-header"><a href="service-details-2.html">Painting</a></h3>
-              <div class="service-details">Paint is the general term for liquid that is used to add colour to the surface of an object by covering it with a pigmented coating.</div>
+              <div class="service-details">Paint; the general term for liquid that is used to add colour to the surface of objects.</div>
             </div>
           </div><!-- .col -->
           <div class="col-lg-4 text-center">
@@ -225,28 +225,28 @@
             <div class="single-process-number"><span>02</span></div>
             <div class="single-process-text">
               <h3>Planing</h3>
-              <p>After that we make develop a well thought blueprint of operation.</p>
+              <p>After that we develop a well thought out blueprint of operation.</p>
             </div>
           </div>
           <div class="single-process">
             <div class="single-process-number"><span>03</span></div>
             <div class="single-process-text">
               <h3>Design</h3>
-              <p>Then creative designer make a unique design.</p>
+              <p>The creative designer make a unique design.</p>
             </div>
           </div>
           <div class="single-process">
             <div class="single-process-number"><span>04</span></div>
             <div class="single-process-text">
               <h3>Construction</h3>
-              <p>Our worker give 100% effort for project.</p>
+              <p>Our workers give 100% effort to projects.</p>
             </div>
           </div>
           <div class="single-process">
             <div class="single-process-number"><span>05</span></div>
             <div class="single-process-text">
               <h3>Check Quality</h3>
-              <p>At last Quality Controler team check everything</p>
+              <p>At last the Quality Control team checks everything.</p>
             </div>
           </div>
         </div>
