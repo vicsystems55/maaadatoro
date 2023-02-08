@@ -412,6 +412,7 @@
                 <div class="avator"><img src="img/testimonial3.jpg.png"  alt="Image"></div>
                 <div class="testimonial-meta-text">
                   <h3>Robert Attah</h3>
+                  
                   <span>Manager</span>
                 </div>
               </div>
