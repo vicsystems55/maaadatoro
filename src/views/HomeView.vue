@@ -259,8 +259,8 @@
       <div class="container">
         <div class="section-header type1">
           <h2>Featured Projects</h2>
-          <div class="sub-heading">Here are some projects that we build the last few years you can check<br> 
-          Every project that we build very carefully and love.</div>
+          <div class="sub-heading">Here are some of our projects over the last few years<br> 
+          Every project built carefully with client satisfaction in mind.</div>
         </div>
         <div class="row flex">
           <div class="col-lg-3">
@@ -503,7 +503,7 @@
       <div class="container">
         <div class="section-header type1">
           <h2>Our Clients</h2>
-          <div class="sub-heading">We fill proud to introduce our partners, they really help us to go <br>
+          <div class="sub-heading">We feel proud to introduce our partners, they really help us to go <br>
           forward with our business. </div>
         </div>
         <div class="partner-logo2">
