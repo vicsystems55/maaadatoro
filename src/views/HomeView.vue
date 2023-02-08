@@ -232,7 +232,7 @@
             <div class="single-process-number"><span>03</span></div>
             <div class="single-process-text">
               <h3>Design</h3>
-              <p>The creative designer make a unique design.</p>
+              <p>The creative designer makes a unique design.</p>
             </div>
           </div>
           <div class="single-process">
