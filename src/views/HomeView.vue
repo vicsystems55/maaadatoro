@@ -383,7 +383,7 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="testimonial">
-              <div class="testimonial-text">"MA ADETORO is one of the very best I have had the pleasure to work with in my 27 years of design and construction project management here at Dover Air Force Base and I look forward to working with Bancroft again on future construction."</div>
+              <div class="testimonial-text">"MA ADETORO is one of the very best I have had the pleasure to work with in my 27 years of design and construction project management here at Dover Air Force Base and I look forward to working with MA ADETORO again on future constructions."</div>
               <div class="testimonial-meta">
                 <div class="avator"><img src="img/comment-01.jpg.png"  alt="Image"></div>
                 <div class="testimonial-meta-text">
