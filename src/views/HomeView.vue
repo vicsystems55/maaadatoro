@@ -377,8 +377,8 @@
       <div class="container">
         <div class="section-header type1">
           <h2>Clients' Review</h2>
-          <div class="sub-heading">People love our work and they have always been with us as a family, some of client<br> 
-           reviews are given below.</div>
+          <div class="sub-heading">People love our work and they have always been with us as a family, some of our clients'<br> 
+           reviews can be seen below.</div>
         </div>
         <div class="row">
           <div class="col-lg-4">
