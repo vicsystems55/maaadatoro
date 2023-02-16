@@ -253,6 +253,8 @@
       </div>
     </section>
     <!-- End Working process -->
+
+ 
     <hr>
     <!-- Start Project Section -->
     <section class="project section" id="projects">
@@ -262,85 +264,115 @@
           <div class="sub-heading">Here are some of our projects over the last few years.<br> 
           Every project built carefully with client satisfaction in mind.</div>
         </div>
-        <div class="row flex">
-          <div class="col-lg-3">
-            <a href="project-details-1.html" class="singel-project">
-              <img src="img/nw-project/10.jpg" style="object-fit: cover;"  alt="Image">
-              <div class="project-meta">
-                <h3 class="project-title">Colorful House</h3>
-                <span class="project-date">26 Jan, 2018</span>
-              </div>
-            </a>
-          </div><!-- .col -->
-          <div class="col-lg-3">
-            <a href="project-details-1.html" class="singel-project">
-              <img src="img/nw-project/13.jpg" style="object-fit: cover;"  alt="Image">
-              <div class="project-meta">
-                <h3 class="project-title">Colorful House</h3>
-                <span class="project-date">26 Jan, 2018</span>
-              </div>
-            </a>
-          </div><!-- .col -->
-          <div class="col-lg-3">
-            <a href="project-details-1.html" class="singel-project">
-              <img src="img/nw-project/16.jpg" style="object-fit: cover;" alt="Image">
-              <div class="project-meta">
-                <h3 class="project-title">Luxury Resort</h3>
-                <span class="project-date">15 Feb, 2018</span>
-              </div>
-            </a>
-          </div><!-- .col -->
-          <div class="col-lg-3">
-            <a href="project-details-1.html" class="singel-project">
-              <img src="img/nw-project/15.jpg" style="object-fit: cover;" alt="Image">
-              <div class="project-meta">
-                <h3 class="project-title">Luxury Resort</h3>
-                <span class="project-date">15 Feb, 2018</span>
-              </div>
-            </a>
-          </div><!-- .col -->
-          <div class="col-lg-3">
-            <a href="project-details-1.html" class="singel-project">
-              <img src="img/nw-project/17.jpg" style="object-fit: cover;" alt="Image">
-              <div class="project-meta">
-                <h3 class="project-title">Luxury Resort</h3>
-                <span class="project-date">15 Feb, 2018</span>
-              </div>
-            </a>
-          </div><!-- .col -->
-          <div class="col-lg-3">
-            <a href="project-details-1.html" class="singel-project">
-              <img src="img/nw-project/14.jpg" style="object-fit: cover;" alt="Image">
-              <div class="project-meta">
-                <h3 class="project-title">Luxury Resort</h3>
-                <span class="project-date">15 Feb, 2018</span>
-              </div>
-            </a>
-          </div><!-- .col -->
-          <div class="col-lg-3">
-            <a href="project-details-1.html" class="singel-project">
-              <img src="img/nw-project/11.jpg" style="object-fit: cover;" alt="Image">
-              <div class="project-meta">
-                <h3 class="project-title">Luxury Resort</h3>
-                <span class="project-date">15 Feb, 2018</span>
-              </div>
-            </a>
-          </div><!-- .col -->
-          <div class="col-lg-3">
-            <a href="https://www.youtube.com/embed/-3a5P876CmA?autoplay=1" class="singel-project video-open">
-              <span class="project-player"><i class="fa fa-play"></i></span>
-              <img src="img/nw-project/12.jpg" style="object-fit: cover;" alt="Image">
-              <div class="project-meta">
-                <h3 class="project-title">Personal Home</h3>
-                <span class="project-date">25 Apr, 2018</span>
-              </div>
-            </a>
-          </div><!-- .col -->
-        </div>
+
+
+
+
+
+          <div class="row flex d-none">
+            <div class="col-lg-3">
+              <a href="project-details-1.html" class="singel-project">
+                <img src="img/nw-project/10.jpg" style="object-fit: cover;"  alt="Image">
+                <div class="project-meta">
+                  <h3 class="project-title">Colorful House</h3>
+                  <span class="project-date">26 Jan, 2018</span>
+                </div>
+              </a>
+            </div><!-- .col -->
+            <div class="col-lg-3">
+              <a href="project-details-1.html" class="singel-project">
+                <img src="img/nw-project/13.jpg" style="object-fit: cover;"  alt="Image">
+                <div class="project-meta">
+                  <h3 class="project-title">Colorful House</h3>
+                  <span class="project-date">26 Jan, 2018</span>
+                </div>
+              </a>
+            </div><!-- .col -->
+            <div class="col-lg-3">
+              <a href="project-details-1.html" class="singel-project">
+                <img src="img/nw-project/16.jpg" style="object-fit: cover;" alt="Image">
+                <div class="project-meta">
+                  <h3 class="project-title">Luxury Resort</h3>
+                  <span class="project-date">15 Feb, 2018</span>
+                </div>
+              </a>
+            </div><!-- .col -->
+            <div class="col-lg-3">
+              <a href="project-details-1.html" class="singel-project">
+                <img src="img/nw-project/15.jpg" style="object-fit: cover;" alt="Image">
+                <div class="project-meta">
+                  <h3 class="project-title">Luxury Resort</h3>
+                  <span class="project-date">15 Feb, 2018</span>
+                </div>
+              </a>
+            </div><!-- .col -->
+            <div class="col-lg-3">
+              <a href="project-details-1.html" class="singel-project">
+                <img src="img/nw-project/17.jpg" style="object-fit: cover;" alt="Image">
+                <div class="project-meta">
+                  <h3 class="project-title">Luxury Resort</h3>
+                  <span class="project-date">15 Feb, 2018</span>
+                </div>
+              </a>
+            </div><!-- .col -->
+            <div class="col-lg-3">
+              <a href="project-details-1.html" class="singel-project">
+                <img src="img/nw-project/14.jpg" style="object-fit: cover;" alt="Image">
+                <div class="project-meta">
+                  <h3 class="project-title">Luxury Resort</h3>
+                  <span class="project-date">15 Feb, 2018</span>
+                </div>
+              </a>
+            </div><!-- .col -->
+            <div class="col-lg-3">
+              <a href="project-details-1.html" class="singel-project">
+                <img src="img/nw-project/11.jpg" style="object-fit: cover;" alt="Image">
+                <div class="project-meta">
+                  <h3 class="project-title">Luxury Resort</h3>
+                  <span class="project-date">15 Feb, 2018</span>
+                </div>
+              </a>
+            </div><!-- .col -->
+            <div class="col-lg-3">
+              <a href="https://www.youtube.com/embed/-3a5P876CmA?autoplay=1" class="singel-project video-open">
+                <span class="project-player"><i class="fa fa-play"></i></span>
+                <img src="img/nw-project/12.jpg" style="object-fit: cover;" alt="Image">
+                <div class="project-meta">
+                  <h3 class="project-title">Personal Home</h3>
+                  <span class="project-date">25 Apr, 2018</span>
+                </div>
+              </a>
+            </div><!-- .col -->
+        
+          </div>
+
       </div>
     </section>
     <!-- End Project Section -->
-    
+    <div class="splide">
+
+      <carousel :settings="settings" :breakpoints="breakpoints" :autoplay="2000" :wrap-around="true">
+    <slide v-for="slide in sliderImages" :key="slide">
+      <div  class="c p-3">
+
+        <a href="project-details-1.html"  class="singel-project">
+                  <img :src="slide.imgurl" style="object-fit: cover; height:200px;" alt="Image">
+                  <div class="project-meta">
+                    <h3 class="project-title">Luxury Resort</h3>
+                    <span class="project-date">15 Feb, 2018</span>
+                  </div>
+                </a>
+      </div>
+    </slide>
+
+    <template #addons>
+      <navigation />
+      <pagination />
+    </template>
+  </carousel>
+      
+    </div>
+
     <!-- Start fun-factor -->
     <section class="fun-factor section bg-img lazy" style="background-image: url('img/fun-fact-bg.jpg')">
       <div class="container">
@@ -587,5 +619,129 @@
   <span class='scrollup' id="scrollup"></span>
   </div>
 </template>
+<script>
+import 'vue3-carousel/dist/carousel.css'
+import { Carousel, Slide, Pagination, Navigation } from 'vue3-carousel'
+
+
+
+
+export default {
+  components: {
+    Carousel,
+    Slide,
+    Pagination,
+    Navigation,
+  },
+  data: () => ({
+    // carousel settings
+    sliderImages:[
+      {
+        imgurl: 'img/project/5.png'
+
+      },
+
+      {
+        imgurl: 'img/project/6.png'
+
+      },
+
+      {
+        imgurl: 'img/project/7.png'
+
+      },
+
+      {
+        imgurl: 'img/project/8.png'
+
+      },
+
+      {
+        imgurl: 'img/project/9.png'
+
+      },
+
+      {
+        imgurl: 'img/project/10.png'
+
+      },
+
+      {
+        imgurl: 'img/project/11.png'
+
+      },
+      {
+        imgurl: 'img/project/12.png'
+
+      },
+
+      {
+        imgurl: 'img/project/13.png'
+
+      },
+
+      {
+        imgurl: 'img/project/14.png'
+
+      },
+
+      {
+        imgurl: 'img/project/15.png'
+
+      },
+
+      {
+        imgurl: 'img/project/16.png'
+
+      },
+
+      {
+        imgurl: 'img/project/17.png'
+
+      },
+      {
+        imgurl: 'img/project/18.png'
+
+      },
+
+      {
+        imgurl: 'img/project/19.png'
+
+      },
+
+      {
+        imgurl: 'img/project/20.png'
+
+      },
+
+      {
+        imgurl: 'img/project/21.png'
+
+      },
+    ],
+    settings: {
+      itemsToShow: 1.5,
+      snapAlign: 'center',
+    },
+    // breakpoints are mobile first
+    // any settings not specified will fallback to the carousel settings
+    breakpoints: {
+      // 700px and up
+      700: {
+        itemsToShow: 3.5,
+        snapAlign: 'center',
+      },
+      // 1024 and up
+      1024: {
+        itemsToShow: 5,
+        snapAlign: 'start',
+      },
+    },
+  }),
+}
+</script>
+
+<style>
+</style>
 
 
