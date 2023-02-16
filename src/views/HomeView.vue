@@ -355,7 +355,7 @@
     <slide v-for="slide in sliderImages" :key="slide">
       <div  class="c p-3">
 
-        <a href="project-details-1.html"  class="singel-project">
+        <a href=""  class="singel-project">
                   <img :src="slide.imgurl" style="object-fit: cover; height:200px;" alt="Image">
                   <div class="project-meta">
                     <h3 class="project-title">Luxury Resort</h3>
