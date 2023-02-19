@@ -358,8 +358,8 @@
         <a href=""  class="singel-project">
                   <img :src="slide.imgurl" style="object-fit: cover; height:200px;" alt="Image">
                   <div class="project-meta">
-                    <h3 class="project-title">Luxury Resort</h3>
-                    <span class="project-date">15 Feb, 2018</span>
+                    <h3 class="project-title">{{slide.title}}</h3>
+                    <span class="project-date">{{slide.year}}</span>
                   </div>
                 </a>
       </div>
@@ -637,85 +637,119 @@ export default {
     // carousel settings
     sliderImages:[
       {
-        imgurl: 'img/project/5.png'
+        imgurl: 'img/project/5.png',
+        title: 'Kano State',
+        year: 'Feb, 2008'
 
       },
 
       {
-        imgurl: 'img/project/6.png'
+        imgurl: 'img/project/6.png',
+        title: 'Kano State',
+        year: 'Jan, 2010'
 
       },
 
       {
-        imgurl: 'img/project/7.png'
+        imgurl: 'img/project/7.png',
+        title: 'Kano State',
+        year: 'Apr, 2011'
 
       },
 
       {
-        imgurl: 'img/project/8.png'
+        imgurl: 'img/project/8.png',
+        title: 'Ondo State',
+        year: 'Sep, 2014'
 
       },
 
       {
-        imgurl: 'img/project/9.png'
+        imgurl: 'img/project/9.png',
+        title: 'Kano State',
+        year: 'Jun, 2017'
 
       },
 
       {
-        imgurl: 'img/project/10.png'
+        imgurl: 'img/project/10.png',
+        title: 'Kano State',
+        year: 'Jul, 2018'
 
       },
 
       {
-        imgurl: 'img/project/11.png'
+        imgurl: 'img/project/11.png',
+        title: 'Ekiti State',
+        year: 'Oct, 2019'
 
       },
       {
-        imgurl: 'img/project/12.png'
-
-      },
-
-      {
-        imgurl: 'img/project/13.png'
-
-      },
-
-      {
-        imgurl: 'img/project/14.png'
+        imgurl: 'img/project/12.png',
+        title: 'Ekiti State',
+        year: 'Nov, 2015'
 
       },
 
       {
-        imgurl: 'img/project/15.png'
+        imgurl: 'img/project/13.png',
+        title: 'Kano State',
+        year: 'Sep, 2012'
 
       },
 
       {
-        imgurl: 'img/project/16.png'
+        imgurl: 'img/project/14.png',
+        title: 'Kano State',
+        year: 'Apr, 2013'
 
       },
 
       {
-        imgurl: 'img/project/17.png'
-
-      },
-      {
-        imgurl: 'img/project/18.png'
-
-      },
-
-      {
-        imgurl: 'img/project/19.png'
+        imgurl: 'img/project/15.png',
+        title: 'Rivers State',
+        year: 'May, 2011'
 
       },
 
       {
-        imgurl: 'img/project/20.png'
+        imgurl: 'img/project/16.png',
+        title: 'Kano State',
+        year: 'Dec, 2020'
 
       },
 
       {
-        imgurl: 'img/project/21.png'
+        imgurl: 'img/project/17.png',
+        title: 'Kano State',
+        year: 'Feb, 2019'
+
+      },
+      {
+        imgurl: 'img/project/18.png',
+        title: 'Kano State',
+        year: 'Feb, 2008'
+
+      },
+
+      {
+        imgurl: 'img/project/19.png',
+        title: 'Kano State',
+        year: 'Feb, 2018'
+
+      },
+
+      {
+        imgurl: 'img/project/20.png',
+        title: 'Kano State',
+        year: 'Feb, 2016'
+
+      },
+
+      {
+        imgurl: 'img/project/21.png',
+        title: 'Kano State',
+        year: 'Feb, 2017'
 
       },
     ],
