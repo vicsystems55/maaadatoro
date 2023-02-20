@@ -52,7 +52,7 @@
       <div class="container">
         <div class="hero-text">
           <h1>We Build Your Dream</h1>
-          <h4>Over five years MA ADETORO has led in the construction business. <br> We know how to build a perfect dream project.</h4>
+          <h4>Over five decades MA ADETORO has led in the construction business. <br> We know how to build a perfect dream project.</h4>
         
         </div>
         <div class="height75"></div>
